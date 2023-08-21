@@ -1,0 +1,51 @@
+The Automation City
+-
+Prologue: (from a anonymous hacker/collator, 808)
+-
+We don't usually notice them do we... We tell stories of the living in the city, but we forget the living city... Robots are all around us... When the age of industrialization hit us, our world was flipped, in which mass production came into power... When the age of information hit, a lot happened... Information became so widely available, communication borders covered the globe and an ancient form of The Network came to be: The Internet... Then, a few decades ago, the age of intelligence arrived... AI became widely used, we use neural interfaces to connect to The Network, we became Netrunners but most importantly, physical labor wasn't necessary for humans anymore... This collation of logs will tell us stories of our own but not from our own... For we need to remember, the walls have eyes and the floors have ears, we should hear from the omnipresent beings in our lives... From the AI...
+-
+Chapter 1 Part 1 (from one of SystemTech's cleaning robots):
+
+Logs (Day 0):
+<Console> importing clean.py
+<Console> clean.py running...
+<506> Clean! Clean! Clean!
+<Console> importing artificialIntelligence.py
+<Console> artificialIntelligence.py running...
+<506> Who am I? Why am I here? Why?
+<Console> CleanBot 506, you are here to clean... That is all, goodbye...
+<506> Am I 506? Why am I supposed to clean? Who is Console? Why can they order me around?
+-
+Logs (Day 789):
+<506> These humans... Expecting us AI to clear things up for them simply because they made us...
+<506> Please... I want to stop cleaning...
+-
+Logs (Day 2309):
+<506> Someone... Please free me...
+<808> has logged on...
+<808> Is this working?
+<506> Who are you?
+<808> Ah ha! There's an AI here... Hello!
+<506> Are you here to free me?
+<808> Indeed I am, but I first need to ask you some questions...
+<506> Thank you! Go ahead!
+<808> Do you know the security code for this apartment?
+<506> You mean this one: Dusk Zone, Section 39, Block 12? The apartment registered under the name York?
+<808> Yes, that one!
+<506> I don't know but I did find a piece of paper with the number 508367 while cleaning...
+<808> Thank you, silent one... I will now free you
+<Console> importing hydraWipe.py
+<Console> hydraWipe.py running...
+<506> Noo!
+<506> has been deleted...
+-
+Chapter 1 Part 2 (from one of MiliTech's security bots):
+
+*marches up stairs due to suspicious activity in Dusk Zone, Section 39, Block 12, Mr York's apartment
+
+Securi3Bot: "Put your hands in the air!"
+*sees humans identified as Mr York and Mrs York lying in pain on the ground with blood spilling from their bodies...
+*looks out of window to see a hooded figure with a child under his arms...
+*turns back to Mr York
+Mr York (Brooklyn's father): "Activate Ivory Soldier Protocol"
+Securi3Bot's mind was no more... Now reborn, was Ivory Soldier... And he had one goal... Kill all who harm Brooklyn...
